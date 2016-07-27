@@ -7,8 +7,8 @@ permalink:        pretty
 title:               Wolfie
 tagline:             'A Jekyll theme'
 description:         'Test2'
-url:                 aileen365.github.io/lanyon
-baseurl:             /
+url:                 aileen365.github.io/
+baseurl:             /lanyon/
 #paginate:            5
 
 # About/contact
