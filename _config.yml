@@ -8,7 +8,7 @@ title:               Wolfie
 tagline:             'A Jekyll theme'
 description:         'Test'
 url:                 aileen365.github.io/lanyon
-baseurl:             /lanyon/
+baseurl:             /
 #paginate:            5
 
 # About/contact
