@@ -2,11 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:               Wolfie
 tagline:             'A Jekyll theme'
-description:         'Test3'
+description:         'Test4'
 url:                 aileen365.github.io/
 baseurl:             /lanyon/
 #paginate:            5
