@@ -3,20 +3,21 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
+future:              true
 
 # Setup
-title:               Wolfie!!
-tagline:             'Hello, Shittie'
-description:         'I am <a href="http://jekyllrb.com" target="_blank">Wolfie</a> You will like <a href="https://twitter.com/mdo" target="_blank">me</a>.'
-url:                 aileen365.github.io/wolfie
-baseurl:             /wolfie/
+title:               Wolfie
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 aileen365.github.io/aileen365
+baseurl:             /aileen365/
 paginate:            5
 
 # About/contact
 author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             aileen365@gmail.com
 
 # Custom vars
 version:             1.0.0
